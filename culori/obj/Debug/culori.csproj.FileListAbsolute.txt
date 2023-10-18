@@ -1,0 +1,12 @@
+C:\Users\user6\source\repos\culori\culori\bin\Debug\culori.exe.config
+C:\Users\user6\source\repos\culori\culori\bin\Debug\culori.exe
+C:\Users\user6\source\repos\culori\culori\bin\Debug\culori.pdb
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.csprojAssemblyReference.cache
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.Form1.resources
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.Properties.Resources.resources
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.csproj.GenerateResource.cache
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.csproj.CoreCompileInputs.cache
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.exe
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.pdb
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.Form2.resources
+C:\Users\user6\source\repos\culori\culori\obj\Debug\culori.Form3.resources
